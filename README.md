@@ -121,33 +121,21 @@ meloire/
 
 # 7. Dokumentasi Program
 ## A. Halaman Utama
-[Masukkan screenshot halaman Home]
+
+https://github.com/user-attachments/assets/dc3f50bd-cb5e-4343-a998-65a95005e823
 
 ## B. CRUD Mood
-[Masukkan screenshot Create dan Read Mood]
 
-[Masukkan screenshot Update dan Delete Mood]
+https://github.com/user-attachments/assets/330ac6ac-31c0-454e-b93a-d5e5965df1ef
 
 ## C. CRUD Songs
-[Masukkan screenshot Create dan Read Songs]
 
-[Masukkan screenshot Update dan Delete Songs]
+https://github.com/user-attachments/assets/122eb4d3-6a88-4fd6-8732-b394c2b91f65
 
 ## D. CRUD Journals
-[Masukkan screenshot Create dan Read Journals]
 
-[Masukkan screenshot Update dan Delete Journals]
-
+https://github.com/user-attachments/assets/71856859-3dce-4e81-8ac7-f5c384db6c05
+ 
 ## E. CRUD Playlists
-[Masukkan screenshot Create dan Read Playlists]
 
-[Masukkan screenshot Update dan Delete Playlists]
-
-[Masukkan screenshot Add Song dan Remove Song]
-
-## F. Database
-[Masukkan screenshot struktur tabel dan relasi database di phpMyAdmin]
-
-## G. Screen Recording
-
-[Masukkan link video demonstrasi program dan seluruh fitur CRUD]
+https://github.com/user-attachments/assets/8c3af0f8-f12c-407d-971a-e255db71f08c
